@@ -98,10 +98,10 @@ body {
 
 @media (max-width: 600px) {
   .panel p {
-    font-size: 0.6em;
+    font-size: 1em;
   }
   .panel p:nth-child(2) {
-    font-size: 1.5em;
+    font-size: 2em;
   }
   .panels {
     flex-direction: column;
